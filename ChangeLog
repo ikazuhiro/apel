@@ -1,3 +1,8 @@
+2013-08-05  Tatsuya Kinoshita  <tats@vega.ocn.ne.jp>
+
+	* poe.el: Fix wrong type argument on Emacs 24.3.50 to check
+	`make-temp-file'.
+
 2013-07-05  Tatsuya Kinoshita  <tats@vega.ocn.ne.jp>
 
 	* mcs-20.el: Really check whether the mule-vesion variable is defined.
